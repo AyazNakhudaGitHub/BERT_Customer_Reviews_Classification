@@ -3,7 +3,7 @@ A machine learning research project by: Ayaz Nakhuda, David Ferris and Jastejpal
 
 The files in this directory depend on the models that were trained and saved in the Experiments directory. Please ensure to train and save those models in your working directory on Google Drive before running the final experiments.
 
-To run these files one would need to save the .ipynb files onto Google Drive along with the data and saved models. All of the files, data and saved models need to be in the same directory on Google Drive. Furthermore, the .ipynb notebooks will need to be opened on Google Colab where one would run the cells. It is reccomended to purchase Colab Pro as they provide access to capable GPU's and TPU's and more resources. 
+To run these files one would need to save the .ipynb files onto Google Drive along with the data and saved models. All of the files, data and saved models need to be in the same directory on Google Drive. Furthermore, the .ipynb notebooks will need to be opened on Google Colab where one would run the cells. It is reccomended to purchase Colab Pro as they provide access to capable GPU's, TPU's and more resources. 
 
 
 Once in Google Colab and all the necessary files and directories are located in your Google Drive, you will need to perfrom the following actions in order to run certain parts of the notebooks. 
@@ -27,7 +27,7 @@ Once in Google Colab and all the necessary files and directories are located in 
 
 
 
-- To save models, one would need to run the following cell:
+- To save a model, one would need to run the following cell:
 
 
   <img width="444" alt="Screen Shot 2021-12-11 at 7 17 51 PM" src="https://user-images.githubusercontent.com/63979892/145695802-ead1a7ea-49b4-4af4-86c7-f805226c9d4a.png">
