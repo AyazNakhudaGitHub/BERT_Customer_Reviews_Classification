@@ -11,25 +11,29 @@ Once in Google Colab and all the necessary files and directories are located in 
 
 - To connect to Google drive, run the following cell, you will shortly be prompted to enter your credentials:
 
-<img width="315" alt="Screen Shot 2021-12-11 at 7 14 28 PM" src="https://user-images.githubusercontent.com/63979892/145695724-8bea5f06-2ec9-4a26-8ba6-512d617dd656.png">
+
+  <img width="315" alt="Screen Shot 2021-12-11 at 7 14 28 PM" src="https://user-images.githubusercontent.com/63979892/145695724-8bea5f06-2ec9-4a26-8ba6-512d617dd656.png">
 
 
 
 - To load in the data, one would need to run the following cell:
 
-<img width="467" alt="Screen Shot 2021-12-11 at 7 15 21 PM" src="https://user-images.githubusercontent.com/63979892/145695728-c84a803a-82b8-49bf-9ca2-14ee6def7809.png">
+
+  <img width="467" alt="Screen Shot 2021-12-11 at 7 15 21 PM" src="https://user-images.githubusercontent.com/63979892/145695728-c84a803a-82b8-49bf-9ca2-14ee6def7809.png">
 
 
 
 - To save models, one would need to run the following cell:
 
-<img width="444" alt="Screen Shot 2021-12-11 at 7 17 51 PM" src="https://user-images.githubusercontent.com/63979892/145695802-ead1a7ea-49b4-4af4-86c7-f805226c9d4a.png">
+
+  <img width="444" alt="Screen Shot 2021-12-11 at 7 17 51 PM" src="https://user-images.githubusercontent.com/63979892/145695802-ead1a7ea-49b4-4af4-86c7-f805226c9d4a.png">
 
 
 
 - To load in a saved model, one would need to run the following cell:
+ 
 
-<img width="570" alt="Screen Shot 2021-12-11 at 7 18 03 PM" src="https://user-images.githubusercontent.com/63979892/145695809-93bffff0-5a83-4a96-a3a0-f478761549e2.png">
+  <img width="570" alt="Screen Shot 2021-12-11 at 7 18 03 PM" src="https://user-images.githubusercontent.com/63979892/145695809-93bffff0-5a83-4a96-a3a0-f478761549e2.png">
 
 
 
