@@ -1,4 +1,12 @@
 # BERT_Customer_Reviews_Classification
+
+
+
+<img width="915" alt="Screen Shot 2021-12-14 at 7 52 42 PM" src="https://user-images.githubusercontent.com/63979892/146103310-b445ba01-e9ec-4fc1-89c2-fbe053b08bed.png">
+
+
+
+
 A machine learning research project by: Ayaz Nakhuda, David Ferris and Jastejpal Soora 
 
 
